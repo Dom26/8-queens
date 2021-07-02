@@ -3,6 +3,7 @@ Solving the 8-queens problem using the Genetic Algorithm
 
 Must have python available on your system in order to run.
 To run the 8-queens program execute the python file named "eightQueens"
+  
   python eightQueens.py
  
 I did not implement a way for the user to change the population or number
