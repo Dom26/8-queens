@@ -5,7 +5,12 @@ Must have python available on your system in order to run.
 To run the 8-queens program execute the python file named "eightQueens"
   
   python eightQueens.py
- 
+
+The intention of this code is to learn how to implement the Genetic Algorithm
+in a fun and interesting way. This code is from an Artificial Intelligence
+course, and I have been given permission to make this code public.
+
+
 I did not implement a way for the user to change the population or number
 of iterations. The program will ask if the user wants to read how the 
 program runs, if they do they need to enter "y" or "Y". If they'd rather
